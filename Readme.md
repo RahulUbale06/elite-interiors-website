@@ -5,6 +5,9 @@ A modern luxury interior designer website built using HTML, CSS, and JavaScript.
 This project originally started as part of my frontend learning journey and basic web development practice. Later, I redesigned and improved the UI/UX, layout structure, styling, and overall visual appearance to explore modern frontend design concepts and AI-assisted development workflows.
 
 ---
+## Live Demo
+
+https://rahul-elite-interiors.vercel.app/
 
 ## Features
 
