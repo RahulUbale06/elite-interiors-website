@@ -73,7 +73,7 @@ elite-interiors-website/
 
 ## Screenshots
 
-_Add project screenshots inside the `screenshots/` folder._
+Output screenshots are inside the Screenshot folder
 
 ---
 
