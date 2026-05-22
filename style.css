@@ -28,8 +28,8 @@ img{
 
     background:
     linear-gradient(rgba(0,0,0,0.75),
-    rgba(0,0,0,0.75)),
-    url("Living background.jpg");
+rgba(0,0,0,0.75)),
+    url("images/Living background.jpg");
 
     background-size:cover;
     background-position:center;
@@ -63,8 +63,8 @@ img{
 }
 
 .logo{
-    font-size:40px;
-    font-weight:800;
+    font-size:30px;
+    font-weight:600;
     letter-spacing:2px;
 }
 
@@ -77,7 +77,7 @@ img{
     color:white;
     text-decoration:none;
     position:relative;
-    font-size:18px;
+    font-size:14px;
 }
 
 .nav-links a::after{
@@ -103,7 +103,7 @@ img{
 
 .menu-btn{
     display:none;
-    font-size:28px;
+    font-size:20px;
     cursor:pointer;
 }
 
@@ -124,7 +124,7 @@ img{
 }
 
 .hero-content h1{
-    font-size:90px;
+    font-size:40px;
     max-width:1200px;
     line-height:1.1;
 
@@ -138,7 +138,7 @@ img{
     max-width:850px;
     margin-top:30px;
 
-    font-size:20px;
+    font-size:16px;
     line-height:1.8;
     color:#d0d0d0;
 
@@ -159,7 +159,7 @@ img{
     background:transparent;
 
     color:white;
-    font-size:18px;
+    font-size:14px;
     font-weight:600;
 
     border-radius:50px;
@@ -196,7 +196,7 @@ img{
     background:
     linear-gradient(rgba(0,0,0,0.82),
     rgba(0,0,0,0.82)),
-    url("background bedroom.jpg");
+    url("images/background bedroom.jpg");
 
     background-size:cover;
     background-position:center;
@@ -246,7 +246,7 @@ img{
 }
 
 .about-border h1{
-    font-size:70px;
+    font-size:35;
 }
 
 .about-right{
@@ -255,12 +255,12 @@ img{
 }
 
 .about-right h2{
-    font-size:50px;
+    font-size:35px;
     margin-bottom:35px;
 }
 
 .about-right p{
-    font-size:20px;
+    font-size:18px;
     line-height:1.8;
 }
 
@@ -272,7 +272,7 @@ img{
 
 .section-title{
     text-align:center;
-    font-size:65px;
+    font-size:40px;
     margin-bottom:70px;
 }
 
@@ -424,14 +424,14 @@ img{
 }
 
 .contact-info h1{
-    font-size:70px;
+    font-size:30px;
     margin-bottom:30px;
 }
 
 .contact-info p{
     color:#d0d0d0;
     line-height:1.8;
-    font-size:20px;
+    font-size:18px;
 }
 
 .info-box{
@@ -443,7 +443,7 @@ img{
 
 .info-box i{
     color:#00d9d9;
-    font-size:25px;
+    font-size:20px;
 }
 
 .social-icons{
@@ -516,7 +516,7 @@ img{
     outline:none;
 
     color:white;
-    font-size:17px;
+    font-size:14px;
 
     border-radius:15px;
 }
@@ -538,7 +538,7 @@ img{
     background:#00d9d9;
 
     color:black;
-    font-size:18px;
+    font-size:16px;
     font-weight:700;
 
     border-radius:15px;
@@ -579,7 +579,7 @@ img{
 }
 
 .footer-box h1{
-    font-size:45px;
+    font-size:30px;
     margin-bottom:25px;
 }
 
@@ -674,7 +674,7 @@ img{
 @media(max-width:1200px){
 
     .hero-content h1{
-        font-size:70px;
+        font-size:60px;
     }
 
 }
